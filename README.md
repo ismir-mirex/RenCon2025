@@ -4,4 +4,5 @@ This repository contains the results for the RenCon 2025. The audio and MIDI fil
 
 The results for online audition round and live final round are kept in the csv files. 
 
-TODO: ask ISMIR team for the live streaming recording and photo documentation.
+
+![Photo](HS700921.JPG)
